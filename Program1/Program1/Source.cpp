@@ -39,4 +39,5 @@ int main()
 		printf("You got a grade F\n");
 	}
 	printf("\n Good luck to everyone");
+	printf("\n Good luck to everyone");
 }
